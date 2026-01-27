@@ -1,3 +1,4 @@
+#augšupielāde
 '''
 #smile face
 zime=input("izvēlies :), :(, :/, :>, :| ")
@@ -187,4 +188,5 @@ def automats(zero_pepsi,summa):
                 print(f"atlikums {zero_pepsi - summa}centi")
         else: #uz naudu,kas nav 10,20 vai 5
             print("automāts naudu ņam ņam")
+
 automats(zero_pepsi,summa)
